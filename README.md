@@ -26,4 +26,4 @@
 ## 起動引数について
 - [Quick Launch]フォルダ以外から表示したい場合はショートカットを作成して起動引数でフォルダを指定します。
 - 例えばプログラムフォルダの内容を表示したい場合はショートカットの引数を以下のようにします。  
-  QuickLaunchLauncher.exe "C:\ProgramData\Microsoft\Windows\Start Menu\Programs"
+  ```QuickLaunchLauncher.exe "C:\ProgramData\Microsoft\Windows\Start Menu\Programs"```
